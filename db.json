@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "text": "Eggs",
+      "quantity": "1 dozen",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Flour",
+      "quantity": "2 kg",
+      "reminder": false
+    }
+  ]
+}
